@@ -1,7 +1,7 @@
 # Cosmology
 Cosmology Data
 
-### Type IA Supernovae
+### Type IA Supernovae and Cosmic Chronometers
 Obtained from The Cardassian expansion revisited: constraints from updated Hubble parameter measurements and type Ia supernova data
 
 Juan Magana (Valparaiso U.), Mario H. Amante (Zacatecas U. and Valparaiso U.), Miguel A. Garcia-Aspeitia (Conacyt, Mexico and Zacatecas U.), V. Motta (Valparaiso U.)
