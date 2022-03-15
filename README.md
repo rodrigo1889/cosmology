@@ -24,3 +24,16 @@ Measuring dark energy with the Eiso – Ep correlation of gamma-ray bursts using
 J. S. Wang, F. Y. Wang, K. S. Cheng and Z. G. Dai
 A&A, 585 (2016) A68
 DOI: https://doi.org/10.1051/0004-6361/201526485
+
+#Astrophysics
+
+### Galaxy Date for Dwarf Kormendy data
+The Star Formation Histories of Local Group Dwarf Galaxies I. Hubble Space Telescope / Wide Field Planetary Camera 2 Observations
+
+Daniel R. Weisz, Andrew E. Dolphin, Evan D. Skillman, Jon Holtzman, Karoline M. Gilbert et al.
+
+e-Print: 1404.7144 [astro-ph.GA]
+
+DOI: 10.1088/0004-637X/789/2/147
+
+Published in: Astrophys.J. 789 (2014), 147
